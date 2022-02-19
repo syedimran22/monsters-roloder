@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/monsters-roloder/static/css/main.e801786c.css",
+    "main.js": "/monsters-roloder/static/js/main.3e3962d6.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/monsters-roloder/static/js/787.e4e9b7ff.chunk.js",
+    "static/media/logo.svg": "/monsters-roloder/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/monsters-roloder/index.html",
+    "main.e801786c.css.map": "/monsters-roloder/static/css/main.e801786c.css.map",
+    "main.3e3962d6.js.map": "/monsters-roloder/static/js/main.3e3962d6.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/monsters-roloder/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e801786c.css",
+    "static/js/main.3e3962d6.js"
+  ]
+}
